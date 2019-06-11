@@ -18,11 +18,6 @@
 .env.test.local
 .env.production.local
 
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-
-.DS_STORE
 node_modules
 scripts/flow/*/.flowconfig
 *~
